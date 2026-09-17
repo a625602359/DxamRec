@@ -1,0 +1,7 @@
+*.bak*
+.gradle/
+build/
+app/build/
+local.properties
+*bak*
+*.v119bak
